@@ -1,23 +1,26 @@
 <resources>
     <string name="app_name">EasyCalculator</string>
-    <string name="_0">0</string>
-    <string name="c">C</string>
-    <string name="left_b">(</string>
-    <string name="right_b">)</string>
-    <string name="div">/</string>
-    <string name="_7">7</string>
-    <string name="_8">8</string>
-    <string name="_9">9</string>
-    <string name="multi">*</string>
-    <string name="_4">4</string>
-    <string name="_5">5</string>
-    <string name="_6">6</string>
-    <string name="plus">+</string>
-    <string name="_1">1</string>
-    <string name="_2">2</string>
-    <string name="_3">3</string>
-    <string name="minus">-</string>
-    <string name="ac">AC</string>
-    <string name="dot">.</string>
-    <string name="equal">=</string>
+    <string name="oneText">1</string>
+    <string name="twoText">2</string>
+    <string name="threeText">3</string>
+    <string name="fourText">4</string>
+    <string name="fiveText">5</string>
+    <string name="sixText">6</string>
+    <string name="sevenText">7</string>
+    <string name="eightText">8</string>
+    <string name="nineText">9</string>
+    <string name="zeroText">0</string>
+
+    <string name="clearText">C</string>
+    <string name="parenthesesOpenText">(</string>
+    <string name="parenthesesCloseText">)</string>
+    <string name="divideText">÷</string>
+    <string name="multiplyText">×</string>
+    <string name="addText">+</string>
+    <string name="subtractText">-</string>
+    <string name="decimalText">.</string>
+    <string name="equalsText">=</string>
+
+    <string name="backspace"> </string>
+    <string name="display_hint">Enter a Value</string>
 </resources>
